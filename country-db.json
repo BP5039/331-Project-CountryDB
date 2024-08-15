@@ -1,0 +1,90 @@
+{
+    "countries": [
+      {
+        "id": "USA",
+        "name": "United States",
+        "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
+        "gold": 39,
+        "silver": 41,
+        "bronze": 33,
+        "totalMedals": 113,
+        "ranking": 1,
+        "details": {
+          "capital": "Washington D.C.",
+          "population": 331893745,
+          "area": "9,525,067 sq km",
+          "continent": "North America",
+          "nationalLanguage": "English"
+        }
+      },
+      {
+        "id": "CHN",
+        "name": "China",
+        "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png",
+        "gold": 38,
+        "silver": 32,
+        "bronze": 18,
+        "totalMedals": 88,
+        "ranking": 2,
+        "details": {
+          "capital": "Beijing",
+          "population": 1444216107,
+          "area": "9,596,961 sq km",
+          "continent": "Asia",
+          "nationalLanguage": "Mandarin"
+        }
+      },
+      {
+        "id": "JPN",
+        "name": "Japan",
+        "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JPN.png",
+        "gold": 27,
+        "silver": 14,
+        "bronze": 17,
+        "totalMedals": 58,
+        "ranking": 3,
+        "details": {
+          "capital": "Tokyo",
+          "population": 125836021,
+          "area": "377,975 sq km",
+          "continent": "Asia",
+          "nationalLanguage": "Japanese"
+        }
+      },
+      {
+        "id": "GBR",
+        "name": "United Kingdom",
+        "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png",
+        "gold": 22,
+        "silver": 21,
+        "bronze": 22,
+        "totalMedals": 65,
+        "ranking": 4,
+        "details": {
+          "capital": "London",
+          "population": 67215293,
+          "area": "243,610 sq km",
+          "continent": "Europe",
+          "nationalLanguage": "English"
+        }
+      },
+      {
+        "id": "ROC",
+        "name": "Russia",
+        "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ROC.png",
+        "gold": 20,
+        "silver": 28,
+        "bronze": 23,
+        "totalMedals": 71,
+        "ranking": 5,
+        "details": {
+          "capital": "Moscow",
+          "population": 145912025,
+          "area": "17,098,242 sq km",
+          "continent": "Europe/Asia",
+          "nationalLanguage": "Russian"
+        }
+      }
+    ]
+  }
+  
