@@ -2,12 +2,12 @@
   "countries": [
     {
       "id": "USA",
-      "name": "United States",
+      "name": "United States of America",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
-      "gold": 39,
-      "silver": 41,
-      "bronze": 33,
-      "totalMedals": 113,
+      "gold": 40,
+      "silver": 44,
+      "bronze": 42,
+      "totalMedals": 126,
       "ranking": 1,
       "details": {
         "capital": "Washington D.C.",
@@ -19,16 +19,16 @@
     },
     {
       "id": "CHN",
-      "name": "China",
+      "name": "People's Republic of China",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png",
-      "gold": 38,
-      "silver": 32,
-      "bronze": 18,
-      "totalMedals": 88,
+      "gold": 40,
+      "silver": 27,
+      "bronze": 24,
+      "totalMedals": 91,
       "ranking": 2,
       "details": {
         "capital": "Beijing",
-        "population": 1444216107,
+        "population": 1411778724,
         "area": "9,596,961 sq km",
         "continent": "Asia",
         "nationalLanguage": "Mandarin"
@@ -38,62 +38,28 @@
       "id": "JPN",
       "name": "Japan",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JPN.png",
-      "gold": 27,
-      "silver": 14,
-      "bronze": 17,
-      "totalMedals": 58,
+      "gold": 20,
+      "silver": 12,
+      "bronze": 13,
+      "totalMedals": 45,
       "ranking": 3,
       "details": {
         "capital": "Tokyo",
-        "population": 125836021,
+        "population": 125507472,
         "area": "377,975 sq km",
         "continent": "Asia",
         "nationalLanguage": "Japanese"
       }
     },
     {
-      "id": "GBR",
-      "name": "United Kingdom",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png",
-      "gold": 22,
-      "silver": 21,
-      "bronze": 22,
-      "totalMedals": 65,
-      "ranking": 4,
-      "details": {
-        "capital": "London",
-        "population": 67215293,
-        "area": "243,610 sq km",
-        "continent": "Europe",
-        "nationalLanguage": "English"
-      }
-    },
-    {
-      "id": "ROC",
-      "name": "Russia",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ROC.png",
-      "gold": 20,
-      "silver": 28,
-      "bronze": 23,
-      "totalMedals": 71,
-      "ranking": 5,
-      "details": {
-        "capital": "Moscow",
-        "population": 145912025,
-        "area": "17,098,242 sq km",
-        "continent": "Europe/Asia",
-        "nationalLanguage": "Russian"
-      }
-    },
-    {
       "id": "AUS",
       "name": "Australia",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AUS.png",
-      "gold": 17,
-      "silver": 7,
-      "bronze": 22,
-      "totalMedals": 46,
-      "ranking": 6,
+      "gold": 18,
+      "silver": 19,
+      "bronze": 16,
+      "totalMedals": 53,
+      "ranking": 4,
       "details": {
         "capital": "Canberra",
         "population": 25788217,
@@ -103,82 +69,133 @@
       }
     },
     {
+      "id": "FRA",
+      "name": "France",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FRA.png",
+      "gold": 16,
+      "silver": 26,
+      "bronze": 22,
+      "totalMedals": 64,
+      "ranking": 5,
+      "details": {
+        "capital": "Paris",
+        "population": 67893180,
+        "area": "643,801 sq km",
+        "continent": "Europe",
+        "nationalLanguage": "French"
+      }
+    },
+    {
       "id": "NED",
       "name": "Netherlands",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png",
-      "gold": 10,
-      "silver": 12,
-      "bronze": 14,
-      "totalMedals": 36,
-      "ranking": 7,
+      "gold": 15,
+      "silver": 7,
+      "bronze": 12,
+      "totalMedals": 34,
+      "ranking": 6,
       "details": {
         "capital": "Amsterdam",
-        "population": 17475453,
+        "population": 17445781,
         "area": "41,543 sq km",
         "continent": "Europe",
         "nationalLanguage": "Dutch"
       }
     },
     {
-      "id": "FRA",
-      "name": "France",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FRA.png",
-      "gold": 10,
-      "silver": 12,
-      "bronze": 11,
-      "totalMedals": 33,
-      "ranking": 8,
+      "id": "GBR",
+      "name": "Great Britain",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png",
+      "gold": 14,
+      "silver": 22,
+      "bronze": 29,
+      "totalMedals": 65,
+      "ranking": 7,
       "details": {
-        "capital": "Paris",
-        "population": 67413000,
-        "area": "551,695 sq km",
+        "capital": "London",
+        "population": 67489820,
+        "area": "242,495 sq km",
         "continent": "Europe",
-        "nationalLanguage": "French"
+        "nationalLanguage": "English"
       }
     },
     {
-      "id": "GER",
-      "name": "Germany",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GER.png",
-      "gold": 10,
-      "silver": 11,
-      "bronze": 16,
-      "totalMedals": 37,
-      "ranking": 9,
+      "id": "KOR",
+      "name": "Republic of Korea",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
+      "gold": 13,
+      "silver": 9,
+      "bronze": 10,
+      "totalMedals": 32,
+      "ranking": 8,
       "details": {
-        "capital": "Berlin",
-        "population": 83166711,
-        "area": "357,022 sq km",
-        "continent": "Europe",
-        "nationalLanguage": "German"
+        "capital": "Seoul",
+        "population": 51780579,
+        "area": "100,210 sq km",
+        "continent": "Asia",
+        "nationalLanguage": "Korean"
       }
     },
     {
       "id": "ITA",
       "name": "Italy",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ITA.png",
-      "gold": 10,
-      "silver": 10,
-      "bronze": 20,
+      "gold": 12,
+      "silver": 13,
+      "bronze": 15,
       "totalMedals": 40,
-      "ranking": 10,
+      "ranking": 9,
       "details": {
         "capital": "Rome",
-        "population": 60317116,
+        "population": 59641588,
         "area": "301,340 sq km",
         "continent": "Europe",
         "nationalLanguage": "Italian"
       }
     },
     {
+      "id": "GER",
+      "name": "Germany",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GER.png",
+      "gold": 12,
+      "silver": 13,
+      "bronze": 8,
+      "totalMedals": 33,
+      "ranking": 10,
+      "details": {
+        "capital": "Berlin",
+        "population": 83240525,
+        "area": "357,022 sq km",
+        "continent": "Europe",
+        "nationalLanguage": "German"
+      }
+    },
+    {
+      "id": "NZL",
+      "name": "New Zealand",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NZL.png",
+      "gold": 10,
+      "silver": 7,
+      "bronze": 3,
+      "totalMedals": 20,
+      "ranking": 11,
+      "details": {
+        "capital": "Wellington",
+        "population": 5135300,
+        "area": "268,021 sq km",
+        "continent": "Oceania",
+        "nationalLanguage": "English, Māori"
+      }
+    },
+    {
       "id": "CAN",
       "name": "Canada",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CAN.png",
-      "gold": 7,
-      "silver": 6,
+      "gold": 9,
+      "silver": 7,
       "bronze": 11,
-      "totalMedals": 24,
-      "ranking": 11,
+      "totalMedals": 27,
+      "ranking": 12,
       "details": {
         "capital": "Ottawa",
         "population": 38454327,
@@ -188,54 +205,20 @@
       }
     },
     {
-      "id": "BRA",
-      "name": "Brazil",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BRA.png",
-      "gold": 7,
-      "silver": 6,
-      "bronze": 8,
-      "totalMedals": 21,
-      "ranking": 12,
-      "details": {
-        "capital": "Brasília",
-        "population": 213993437,
-        "area": "8,515,767 sq km",
-        "continent": "South America",
-        "nationalLanguage": "Portuguese"
-      }
-    },
-    {
-      "id": "NZL",
-      "name": "New Zealand",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NZL.png",
-      "gold": 7,
-      "silver": 6,
-      "bronze": 7,
-      "totalMedals": 20,
+      "id": "UZB",
+      "name": "Uzbekistan",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UZB.png",
+      "gold": 8,
+      "silver": 2,
+      "bronze": 3,
+      "totalMedals": 13,
       "ranking": 13,
       "details": {
-        "capital": "Wellington",
-        "population": 5122600,
-        "area": "268,838 sq km",
-        "continent": "Oceania",
-        "nationalLanguage": "English, Māori"
-      }
-    },
-    {
-      "id": "CUB",
-      "name": "Cuba",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CUB.png",
-      "gold": 7,
-      "silver": 3,
-      "bronze": 5,
-      "totalMedals": 15,
-      "ranking": 14,
-      "details": {
-        "capital": "Havana",
-        "population": 11326616,
-        "area": "109,884 sq km",
-        "continent": "North America",
-        "nationalLanguage": "Spanish"
+        "capital": "Tashkent",
+        "population": 35152701,
+        "area": "448,978 sq km",
+        "continent": "Asia",
+        "nationalLanguage": "Uzbek"
       }
     },
     {
@@ -244,66 +227,51 @@
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HUN.png",
       "gold": 6,
       "silver": 7,
-      "bronze": 7,
-      "totalMedals": 20,
-      "ranking": 15,
+      "bronze": 6,
+      "totalMedals": 19,
+      "ranking": 14,
       "details": {
         "capital": "Budapest",
-        "population": 9769526,
-        "area": "93,030 sq km",
+        "population": 9623047,
+        "area": "93,028 sq km",
         "continent": "Europe",
         "nationalLanguage": "Hungarian"
       }
     },
     {
-      "id": "KOR",
-      "name": "South Korea",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
-      "gold": 6,
+      "id": "ESP",
+      "name": "Spain",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ESP.png",
+      "gold": 5,
       "silver": 4,
-      "bronze": 10,
-      "totalMedals": 20,
-      "ranking": 16,
+
+
+      "bronze": 9,
+      "totalMedals": 18,
+      "ranking": 15,
       "details": {
-        "capital": "Seoul",
-        "population": 51709098,
-        "area": "100,210 sq km",
-        "continent": "Asia",
-        "nationalLanguage": "Korean"
-      }
-    },
-    {
-      "id": "POL",
-      "name": "Poland",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/POL.png",
-      "gold": 4,
-      "silver": 5,
-      "bronze": 5,
-      "totalMedals": 14,
-      "ranking": 17,
-      "details": {
-        "capital": "Warsaw",
-        "population": 38268000,
-        "area": "312,696 sq km",
+        "capital": "Madrid",
+        "population": 47351567,
+        "area": "505,992 sq km",
         "continent": "Europe",
-        "nationalLanguage": "Polish"
+        "nationalLanguage": "Spanish"
       }
     },
     {
-      "id": "CZE",
-      "name": "Czech Republic",
-      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CZE.png",
+      "id": "SWE",
+      "name": "Sweden",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SWE.png",
       "gold": 4,
       "silver": 4,
       "bronze": 3,
       "totalMedals": 11,
-      "ranking": 18,
+      "ranking": 16,
       "details": {
-        "capital": "Prague",
-        "population": 10721552,
-        "area": "78,866 sq km",
+        "capital": "Stockholm",
+        "population": 10353442,
+        "area": "450,295 sq km",
         "continent": "Europe",
-        "nationalLanguage": "Czech"
+        "nationalLanguage": "Swedish"
       }
     },
     {
@@ -311,13 +279,13 @@
       "name": "Kenya",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KEN.png",
       "gold": 4,
-      "silver": 4,
-      "bronze": 2,
-      "totalMedals": 10,
-      "ranking": 19,
+      "silver": 2,
+      "bronze": 5,
+      "totalMedals": 11,
+      "ranking": 17,
       "details": {
         "capital": "Nairobi",
-        "population": 53771300,
+        "population": 55892985,
         "area": "580,367 sq km",
         "continent": "Africa",
         "nationalLanguage": "Swahili, English"
@@ -328,16 +296,50 @@
       "name": "Norway",
       "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NOR.png",
       "gold": 4,
-      "silver": 2,
-      "bronze": 2,
+      "silver": 1,
+      "bronze": 3,
       "totalMedals": 8,
-      "ranking": 20,
+      "ranking": 18,
       "details": {
         "capital": "Oslo",
-        "population": 5378857,
+        "population": 5451312,
         "area": "323,802 sq km",
         "continent": "Europe",
         "nationalLanguage": "Norwegian"
+      }
+    },
+    {
+      "id": "IRL",
+      "name": "Ireland",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRL.png",
+      "gold": 4,
+      "silver": 0,
+      "bronze": 3,
+      "totalMedals": 7,
+      "ranking": 19,
+      "details": {
+        "capital": "Dublin",
+        "population": 5023000,
+        "area": "70,273 sq km",
+        "continent": "Europe",
+        "nationalLanguage": "Irish, English"
+      }
+    },
+    {
+      "id": "BRA",
+      "name": "Brazil",
+      "flagUrl": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BRA.png",
+      "gold": 3,
+      "silver": 7,
+      "bronze": 10,
+      "totalMedals": 20,
+      "ranking": 20,
+      "details": {
+        "capital": "Brasilia",
+        "population": 214326223,
+        "area": "8,515,767 sq km",
+        "continent": "South America",
+        "nationalLanguage": "Portuguese"
       }
     }
   ]
